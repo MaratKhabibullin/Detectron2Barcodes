@@ -61,8 +61,8 @@ The evaluation results on the test set, as captured during training, are as foll
 Examples of the trained model's predictions, taken from test images, are saved in the `temp` folder. Below are a few examples:
 
 1. ![Result 1](samples/1.jpg)
-2. ![Result 2](samples/2.png)
-3. ![Result 3](samples/3.png)
-4. ![Result 4](samples/4.png)
+2. ![Result 2](samples/2.jpg)
+3. ![Result 3](samples/3.jpg)
+4. ![Result 4](samples/4.jpg)
 
 If you have any questions or suggestions, please create an issue in this repository.
